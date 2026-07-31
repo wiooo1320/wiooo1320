@@ -36,10 +36,9 @@ I'm passionate about building software that solves real-world problems through m
 
 I'm continuously improving my skills by building projects, learning new technologies, and exploring better ways to create reliable and scalable applications.
 
-- 🔭 Currently building software projects with Java and Next.js
-- 🌱 Learning **Docker**, **Kubernetes**, and **Cloud Technologies**
-- 💡 Passionate about **Clean Architecture**, **OOP**, and **REST APIs**
-- ⚡ Love turning ideas into real-world applications
+Currently building software projects with Java and Next.js
+Learning **Docker**, **Kubernetes**, and **Cloud Technologies**
+Passionate about **Clean Architecture**, **OOP**, and **REST APIs**
 
 📧 **Email:** wiooo1320pp@gmail.com
 
