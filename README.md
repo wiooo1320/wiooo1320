@@ -32,14 +32,13 @@ About Me
 
 I'm **Ponlawat Prangsuwan**, a passionate **Software Developer** from Thailand 🇹🇭.
 
-I enjoy designing and developing software that solves real-world problems through modern web and mobile technologies. I believe great software is built with clean architecture, maintainable code, and a deep understanding of users' needs.
+I'm passionate about building software that solves real-world problems through modern web technologies. I enjoy transforming ideas into reliable, maintainable, and scalable applications while continuously improving my software engineering skills.
 
 I'm continuously improving my skills by building projects, learning new technologies, and exploring better ways to create reliable and scalable applications.
 
-- 🔭 Currently working on **Full-Stack Projects**
+- 🔭 Currently building software projects with Java and Next.js
 - 🌱 Learning **Docker**, **Kubernetes**, and **Cloud Technologies**
 - 💡 Passionate about **Clean Architecture**, **OOP**, and **REST APIs**
-- 📱 Interested in **Mobile Development** with Flutter
 - ⚡ Love turning ideas into real-world applications
 
 📧 **Email:** wiooo1320pp@gmail.com
