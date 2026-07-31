@@ -47,19 +47,17 @@ I'm continuously improving my skills by building projects, learning new technolo
 🌐 **GitHub:** https://github.com/wiooo1320
 
 ---
+## 🛠 Tech Stack & Tools
 
-# 🛠 Tech Stack
-
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p>
-
 <a href="https://nextjs.org">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 </a>
 
 <a href="https://react.dev">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 
 <a href="https://www.typescriptlang.org">
@@ -71,14 +69,13 @@ I'm continuously improving my skills by building projects, learning new technolo
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-## ⚙ Backend
+### ⚙ Backend
 
 <p>
 <a href="https://www.java.com">
@@ -86,61 +83,50 @@ I'm continuously improving my skills by building projects, learning new technolo
 </a>
 
 <a href="https://nodejs.org">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </a>
 
 <a href="https://go.dev">
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-## 🗄 Database
+### 🗄 Database
 
-<p>  
-
+<p>
 <a href="https://www.mysql.com">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-## ☁ DevOps
+### ☁ DevOps
 
 <p>
-
 <a href="https://www.docker.com">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </a>
-
-<a href="https://kubernetes.io">
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-</a>
-
 </p>
 
 ---
 
-## 🧰 Tools
+### 🧰 Tools
 
 <p>
-
 <a href="https://git-scm.com">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 
 <a href="https://github.com">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://robotframework.org">
 <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
 </a>
-
 </p>
 
 ---
