@@ -71,10 +71,6 @@ I enjoy building scalable web applications, mobile applications, and backend sys
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 </a>
 
-<a href="https://tailwindcss.com">
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -82,11 +78,6 @@ I enjoy building scalable web applications, mobile applications, and backend sys
 ## ⚙ Backend
 
 <p>
-
-<a href="https://spring.io/projects/spring-boot">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</a>
-
 <a href="https://www.java.com">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </a>
@@ -107,36 +98,14 @@ I enjoy building scalable web applications, mobile applications, and backend sys
 
 <p>
 
-<a href="https://flutter.dev">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter"/>
-</a>
-
-<a href="https://dart.dev">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart"/>
-</a>
-
-</p>
-
 ---
 
 ## 🗄 Database
 
-<p>
-
-<a href="https://supabase.com">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-</a>
+<p>  
 
 <a href="https://www.mysql.com">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-
-<a href="https://www.postgresql.org">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</a>
-
-<a href="https://firebase.google.com">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </a>
 
 </p>
@@ -169,10 +138,6 @@ I enjoy building scalable web applications, mobile applications, and backend sys
 
 <a href="https://github.com">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.postman.com">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </a>
 
 <a href="https://robotframework.org">
