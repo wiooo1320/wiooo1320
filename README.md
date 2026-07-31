@@ -94,12 +94,6 @@ I enjoy building scalable web applications, mobile applications, and backend sys
 
 ---
 
-## 📱 Mobile
-
-<p>
-
----
-
 ## 🗄 Database
 
 <p>  
