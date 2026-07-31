@@ -29,7 +29,7 @@
 
 # 👋 About Me
 
-Hi! I'm **Ponlawat Prangsuwan**, a passionate **Full-Stack Developer** from **Thailand 🇹🇭**.
+Hi! I'm **Ponlawat Prangsuwan**, a passionate **Software Developer** from **Thailand 🇹🇭**.
 
 I enjoy building scalable web applications, mobile applications, and backend systems with modern technologies.
 
